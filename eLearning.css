@@ -1,0 +1,105 @@
+.li-itemize {
+	MARGIN: 1ex 0ex
+}
+.li-enumerate {
+	MARGIN: 1ex 0ex
+}
+.dd-description {
+	MARGIN: 0ex 0ex 1ex 4ex
+}
+.dt-description {
+	MARGIN: 0ex
+}
+.toc {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+.thefootnotes {
+	TEXT-ALIGN: left; MARGIN: 0ex
+}
+.dt-thefootnotes {
+	MARGIN: 0em
+}
+.dd-thefootnotes {
+	MARGIN: 0em 0em 0em 2em
+}
+.footnoterule {
+	MARGIN: 1em auto 1em 0px; WIDTH: 50%
+}
+.caption {
+	PADDING-LEFT: 2ex; PADDING-RIGHT: 2ex; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.title {
+	TEXT-ALIGN: center; MARGIN: 2ex auto
+}
+.center {
+	TEXT-ALIGN: center; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.flushleft {
+	TEXT-ALIGN: left; MARGIN-LEFT: 0ex; MARGIN-RIGHT: auto
+}
+.flushright {
+	TEXT-ALIGN: right; MARGIN-LEFT: auto; MARGIN-RIGHT: 0ex
+}
+DIV TABLE {
+	MARGIN-LEFT: inherit; MARGIN-RIGHT: inherit
+}
+PRE {
+	TEXT-ALIGN: left; MARGIN-LEFT: 0ex; MARGIN-RIGHT: auto
+}
+BLOCKQUOTE {
+	TEXT-ALIGN: left; MARGIN-LEFT: 4ex; MARGIN-RIGHT: 4ex
+}
+TD P {
+	MARGIN: 0px
+}
+.boxed {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid
+}
+.textboxed {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid
+}
+.vbar {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: black; WIDTH: 2px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.hbar {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: black; WIDTH: 100%; HEIGHT: 2px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.hfill {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: black; WIDTH: 200%; HEIGHT: 1px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.vdisplay {
+	BORDER-BOTTOM: red 2px solid; BORDER-LEFT: red 2px solid; BORDER-SPACING: 2px; WIDTH: auto; BORDER-COLLAPSE: separate; EMPTY-CELLS: show; BORDER-TOP: red 2px solid; BORDER-RIGHT: red 2px solid
+}
+.vdcell {
+	BORDER-BOTTOM: green 2px solid; BORDER-LEFT: green 2px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: auto; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; BORDER-TOP: green 2px solid; BORDER-RIGHT: green 2px solid; PADDING-TOP: 0px
+}
+.display {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-SPACING: 2px; WIDTH: auto; BORDER-COLLAPSE: separate; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.dcell {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: auto; PADDING-RIGHT: 0px; WHITE-SPACE: nowrap; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.dcenter {
+	MARGIN: 0ex auto
+}
+.vdcenter {
+	BORDER-BOTTOM: #ff8000 2px solid; BORDER-LEFT: #ff8000 2px solid; MARGIN: 0ex auto; BORDER-TOP: #ff8000 2px solid; BORDER-RIGHT: #ff8000 2px solid
+}
+.minipage {
+	TEXT-ALIGN: left; MARGIN-LEFT: 0em; MARGIN-RIGHT: auto
+}
+.marginpar {
+	BORDER-BOTTOM: black thin solid; TEXT-ALIGN: left; BORDER-LEFT: black thin solid; WIDTH: 20%; BORDER-TOP: black thin solid; BORDER-RIGHT: black thin solid
+}
+.marginparleft {
+	FLOAT: left; MARGIN-LEFT: 0ex; MARGIN-RIGHT: 1ex
+}
+.marginparright {
+	FLOAT: right; MARGIN-LEFT: 1ex; MARGIN-RIGHT: 0ex
+}
+.theorem {
+	TEXT-ALIGN: left; MARGIN: 1ex auto 1ex 0ex
+}
+.part {
+	TEXT-ALIGN: center; MARGIN: 2ex auto
+}
